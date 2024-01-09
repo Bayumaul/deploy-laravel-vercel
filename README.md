@@ -10,6 +10,7 @@ Most simple example project is this one, using following project structure.
 project
 ├── api
 │   └── index.php
+└── .vercelignore
 └── vercel.json
 ```
 
